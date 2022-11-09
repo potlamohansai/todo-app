@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/themeswitcher/static/css/main.da54354e.css",
+    "main.js": "/themeswitcher/static/js/main.cba338d6.js",
+    "static/js/787.2843ca88.chunk.js": "/themeswitcher/static/js/787.2843ca88.chunk.js",
+    "index.html": "/themeswitcher/index.html",
+    "main.da54354e.css.map": "/themeswitcher/static/css/main.da54354e.css.map",
+    "main.cba338d6.js.map": "/themeswitcher/static/js/main.cba338d6.js.map",
+    "787.2843ca88.chunk.js.map": "/themeswitcher/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da54354e.css",
+    "static/js/main.cba338d6.js"
+  ]
+}
